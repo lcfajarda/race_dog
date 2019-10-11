@@ -1,0 +1,61 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.character{
+	position: absolute;
+	width: 100px;
+}
+#ai{
+	top:100px;
+}
+
+#player{
+	top:150px;
+}
+body{
+	background:url(../images/beach.jpg);
+	background-size: cover;
+}
+.car1{
+	margin-top: 550px;
+	height: 60px;
+	margin-left: 40px;
+}
+.boat1{
+	margin-top: 100px;
+	height: 60px;
+	margin-left: 40px;
+}
+
+#start1{
+border:3px solid white;
+margin-left: 100px;
+margin-top: 100px;
+height:100px;
+width: 100px;
+background-color: transparent;
+}
+
+#start2{
+border:3px solid white;
+margin-top: 100px;
+height:100px;
+width: 100px;
+background-color: transparent;
+}
+
+#start3{
+border:3px solid white;
+margin-top: 100px;
+height:100px;
+width: 100px;
+background-color: transparent;
+}
+
+.pi{
+	color:white;
+	text-decoration: bold;
+}
